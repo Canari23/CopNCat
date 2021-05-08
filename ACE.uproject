@@ -26,6 +26,10 @@
 				"Linux",
 				"Mac"
 			]
+		},
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
 		}
 	]
 }
